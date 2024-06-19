@@ -6,17 +6,6 @@
     "title": "About",
     "type": "page"
   },
-  {
-  "title": "Ghost",
-  "description": "Independent technology for modern publishing.",
-  "keywords": ["publishers", "digital", "newsletter", "blog", "insights"],
-  "author": "FedericoP",
-  "date_published": "2024-06-18",
-  "date_modified": "2024-06-20",
-  "language": "en",
-  "tags": ["digital", "insights", "branding"],
-  "image": "https://https://ghost.org/images/logos/ghost-logo-dark.png"
-}
   "contact": {
     "title": "Contact ↗",
     "type": "page",
