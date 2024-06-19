@@ -13,6 +13,7 @@ const config: DocsThemeConfig = {
   footer: {
     text: 'Nextra Docs Template',
   },
+  faviconGlyph: '/favicon.ico'
 }
 
 export default config
